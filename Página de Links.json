@@ -1,1 +1,1485 @@
-{"content":[{"id":"6d118eb0","settings":{"flex_direction":"column","width":{"unit":"px","size":828,"sizes":[]},"boxed_width":{"unit":"px","size":828,"sizes":[]},"boxed_width_widescreen":{"unit":"%","size":"","sizes":[]},"boxed_width_laptop":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"min_height_mobile":{"unit":"px","size":0,"sizes":[]},"flex_justify_content_mobile":"center","flex_align_items":"center","flex_align_items_mobile":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"margin_widescreen":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"40","right":"20","bottom":"40","left":"20","isLinked":false},"padding_widescreen":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"20","bottom":"40","left":"20","isLinked":false},"flex_justify_content_widescreen":"flex-end","background_background":"classic","background_image":{"url":"","id":"","size":"","alt":"","source":"library"},"background_image_mobile":{"url":"","id":"","alt":"","source":"library"},"background_position":"top center","background_repeat":"no-repeat","background_size":"auto","background_size_mobile":"cover"},"elements":[{"id":"4499b25c","settings":{"image_size":"full","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]},"image":{"id":85,"url":"https:\/\/eupatrickpereira.com.br\/wp-content\/uploads\/2023\/06\/placeholder-4.png"}},"elements":[],"isInner":false,"widgetType":"image","elType":"widget"},{"id":"73269284","settings":{"title":"@seuarroba","align_mobile":"center","typography_typography":"custom","typography_font_family":"Sora","typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"700","_animation_mobile":"fadeInDown","title_color":"#FFFFFF"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"64843fd7","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-whatsapp","library":"fa-brands"},"_id":"e8a9afa"},{"social_icon":{"value":"fab fa-instagram","library":"fa-brands"},"_id":"9dc43b9"},{"social_icon":{"value":"fab fa-behance","library":"fa-brands"},"_id":"a2b6c09"}],"shape":"circle","columns_mobile":"0","align_mobile":"center","icon_color":"custom","icon_primary_color":"#FFFFFF00","icon_secondary_color":"#FFFFFF","icon_spacing_mobile":{"unit":"px","size":10,"sizes":[]},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hover_primary_color":"#02010100","hover_secondary_color":"#00E3FD","hover_animation":"grow","_animation_mobile":"fadeInUp"},"elements":[],"isInner":false,"widgetType":"social-icons","elType":"widget"},{"id":"101aabd","settings":{"text":"Quero um Or\u00e7amento","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_mobile":"justify","selected_icon":{"value":"fab fa-whatsapp","library":"fa-brands"},"icon_indent":{"unit":"px","size":20,"sizes":[]},"typography_typography":"custom","typography_font_family":"Sora","typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","typography_line_height_mobile":{"unit":"em","size":1.5,"sizes":[]},"button_text_color":"#000000","border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":false},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":0,"color":"rgba(0, 253.00000000000003, 101.50937500000009, 0.36)"},"text_padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"20","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"custom_css":"selector .elementor-button{\r\nbackground-image: linear-gradient(45deg, #00e3fd 0%, #6ef195  100%);\r\n    }\r\n    \r\nselector .elementor-button-icon i:before {\r\n    font-size: 25px;\r\n    ;\r\n    vertical-align:middle;\r\n    }\r\nselector .elementor-button-text {\r\n    padding-right: 20px;\r\n    }\r\n\r\nselector .elementor-button-icon i:before {\r\n    font-size: 25px;\r\n    padding-left: 20px;\r\n    }\r\nselector .elementor-button-text {\r\n    padding-right: 45px;\r\n    }","_css_classes":"arrow","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_line_height_widescreen":{"unit":"em","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"em","size":"","sizes":[]},"text_padding":{"unit":"px","top":"15","right":"10","bottom":"15","left":"10","isLinked":false}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"},{"id":"20caad39","settings":{"text":"Adicione um Link Aqui","link":{"url":"https:\/\/www.behance.net\/eupatrickpereira","is_external":"on","nofollow":"","custom_attributes":""},"align":"justify","align_mobile":"justify","selected_icon":{"value":"fab fa-behance","library":"fa-brands"},"typography_typography":"custom","typography_font_family":"Sora","typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","typography_line_height_mobile":{"unit":"em","size":1.5,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#303030","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":0,"color":"rgba(0, 253.00000000000003, 101.50937500000009, 0.36)"},"text_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_animation_mobile":"fadeInDown","custom_css":"selector {\n    backdrop-filter: blur( 20px );\n    -webkit-backdrop-filter: blur( 20px );\n    border-radius: 5px;\n    border: 1px solid;\n    border-image: linear-gradient(90deg,#00e3fd, #6ef195) 1;\n    border-left:0px;\n    border-bottom:0px;\n    border-right:0px;\n}\n\nselector .elementor-button-icon{\n    font-size: 25px;\n    vertical-align:middle;\n    }\nselector .elementor-button-text {\n    padding-right: 20px;\n    }\n    \n\n    ","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_line_height_widescreen":{"unit":"em","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"em","size":"","sizes":[]},"border_radius_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"},{"id":"5b2e7a32","settings":{"text":"Adicione um Link Aqui","link":{"url":"https:\/\/www.behance.net\/eupatrickpereira","is_external":"on","nofollow":"","custom_attributes":""},"align":"justify","align_mobile":"justify","selected_icon":{"value":"fab fa-behance","library":"fa-brands"},"typography_typography":"custom","typography_font_family":"Sora","typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","typography_line_height_mobile":{"unit":"em","size":1.5,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#303030","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":0,"color":"rgba(0, 253.00000000000003, 101.50937500000009, 0.36)"},"text_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_animation_mobile":"fadeInDown","custom_css":"selector {\n    backdrop-filter: blur( 20px );\n    -webkit-backdrop-filter: blur( 20px );\n    border-radius: 5px;\n    border: 1px solid;\n    border-image: linear-gradient(90deg,#00e3fd, #6ef195) 1;\n    border-left:0px;\n    border-bottom:0px;\n    border-right:0px;\n}\n\nselector .elementor-button-icon{\n    font-size: 25px;\n    vertical-align:middle;\n    }\nselector .elementor-button-text {\n    padding-right: 20px;\n    }\n    \n\n    ","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_line_height_widescreen":{"unit":"em","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"em","size":"","sizes":[]},"border_radius_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"},{"id":"744c601d","settings":{"text":"Adicione um Link Aqui","link":{"url":"https:\/\/www.behance.net\/eupatrickpereira","is_external":"on","nofollow":"","custom_attributes":""},"align":"justify","align_mobile":"justify","selected_icon":{"value":"fab fa-behance","library":"fa-brands"},"typography_typography":"custom","typography_font_family":"Sora","typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","typography_line_height_mobile":{"unit":"em","size":1.5,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#303030","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":0,"color":"rgba(0, 253.00000000000003, 101.50937500000009, 0.36)"},"text_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_animation_mobile":"fadeInDown","custom_css":"selector {\n    backdrop-filter: blur( 20px );\n    -webkit-backdrop-filter: blur( 20px );\n    border-radius: 5px;\n    border: 1px solid;\n    border-image: linear-gradient(90deg,#00e3fd, #6ef195) 1;\n    border-left:0px;\n    border-bottom:0px;\n    border-right:0px;\n}\n\nselector .elementor-button-icon{\n    font-size: 25px;\n    vertical-align:middle;\n    }\nselector .elementor-button-text {\n    padding-right: 20px;\n    }\n    \n\n    ","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_line_height_widescreen":{"unit":"em","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"em","size":"","sizes":[]},"border_radius_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"},{"id":"6b0200b7","settings":{"text":"Adicione um Link Aqui","link":{"url":"https:\/\/www.behance.net\/eupatrickpereira","is_external":"on","nofollow":"","custom_attributes":""},"align":"justify","align_mobile":"justify","selected_icon":{"value":"fab fa-behance","library":"fa-brands"},"typography_typography":"custom","typography_font_family":"Sora","typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","typography_line_height_mobile":{"unit":"em","size":1.5,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#303030","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":0,"color":"rgba(0, 253.00000000000003, 101.50937500000009, 0.36)"},"text_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_animation_mobile":"fadeInDown","custom_css":"selector {\n    backdrop-filter: blur( 20px );\n    -webkit-backdrop-filter: blur( 20px );\n    border-radius: 5px;\n    border: 1px solid;\n    border-image: linear-gradient(90deg,#00e3fd, #6ef195) 1;\n    border-left:0px;\n    border-bottom:0px;\n    border-right:0px;\n}\n\nselector .elementor-button-icon{\n    font-size: 25px;\n    vertical-align:middle;\n    }\nselector .elementor-button-text {\n    padding-right: 20px;\n    }\n    \n\n    ","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_line_height_widescreen":{"unit":"em","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"em","size":"","sizes":[]},"border_radius_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"}],"isInner":false,"elType":"container"}],"page_settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"background_background":"classic","background_color":"#000000","custom_css":".arrow {\n                animation: floating 4s infinite;\n}\n\n@keyframes floating {\n                0% {\n                    transform: translateY(0);\n                }\n\n                57% {\n                    transform: translateY(-16px);\n                }\n\n                100% {\n                    transform: translateY(0);\n                }\n}","ha_grid_number":"","ha_grid_zindex":"1000"},"version":"0.4","title":"@eupatrickpereira - P\u00e1gina de Links","type":"page"}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Compras</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #667eea;
+            --secondary-color: #764ba2;
+            --success-color: #28a745;
+            --danger-color: #ff6b6b;
+            --warning-color: #ffc107;
+            --info-color: #17a2b8;
+            --light-color: #f8f9fa;
+            --dark-color: #343a40;
+            --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --text-color: #333;
+            --border-color: #e1e5e9;
+            --shadow: 0 10px 30px rgba(0,0,0,0.1);
+            --border-radius: 20px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        [data-theme="dark"] {
+            --primary-color: #ff9ed2;
+            --secondary-color: #ffb3e6;
+            --bg-gradient: linear-gradient(135deg, #2d1b69 0%, #11998e 100%);
+            --text-color: #fff;
+            --border-color: #4a5568;
+            --light-color: #2d3748;
+            --shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg-gradient);
+            min-height: 100vh;
+            padding: 10px;
+            color: var(--text-color);
+            transition: var(--transition);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .header {
+            background: var(--light-color);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+            backdrop-filter: blur(10px);
+        }
+
+        .title {
+            text-align: center;
+            color: var(--text-color);
+            margin-bottom: 20px;
+            font-size: 24px;
+            animation: bounce 2s infinite;
+        }
+
+        .budget-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: rgba(102, 126, 234, 0.1);
+            border-radius: 15px;
+            border: 2px dashed var(--primary-color);
+        }
+
+        .budget-input {
+            flex: 1;
+            padding: 10px;
+            border: 2px solid var(--border-color);
+            border-radius: 10px;
+            font-size: 16px;
+            background: var(--light-color);
+            color: var(--text-color);
+        }
+
+        .budget-display {
+            font-size: 18px;
+            font-weight: bold;
+            color: var(--primary-color);
+            min-width: 120px;
+        }
+
+        .add-form {
+            display: grid;
+            grid-template-columns: 2fr 1fr 80px 80px 80px 50px;
+            gap: 10px;
+            margin-bottom: 15px;
+            align-items: center;
+        }
+
+        .add-form input, .add-form select {
+            padding: 12px;
+            border: 2px solid var(--border-color);
+            border-radius: 10px;
+            font-size: 16px;
+            background: var(--light-color);
+            color: var(--text-color);
+            transition: var(--transition);
+        }
+
+        .add-form input:focus, .add-form select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            transform: scale(1.02);
+            box-shadow: 0 0 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .quantity-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .quantity-input {
+            flex: 1;
+            min-width: 50%;
+        }
+
+        .unit-select {
+            width: 50%;
+            padding: 8px 4px;
+            font-size: 12px;
+        }
+
+        .add-btn {
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 12px;
+            font-size: 20px;
+            cursor: pointer;
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .add-btn:hover {
+            background: var(--secondary-color);
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .add-btn:active {
+            transform: scale(0.95);
+        }
+
+        .search-container {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px 45px 12px 15px;
+            border: 2px solid var(--border-color);
+            border-radius: 15px;
+            font-size: 18px;
+            background: var(--light-color);
+            color: var(--text-color);
+            transition: var(--transition);
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--primary-color);
+            font-size: 18px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid var(--border-color);
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .stats-left {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            flex: 1;
+        }
+
+        .progress-bar {
+            flex: 1;
+            height: 8px;
+            background: var(--border-color);
+            border-radius: 4px;
+            overflow: hidden;
+            min-width: 100px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+            transition: width 0.5s ease;
+        }
+
+        .price-display {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+            font-size: 14px;
+        }
+
+        .budget-remaining {
+            color: var(--success-color);
+            font-weight: bold;
+        }
+
+        .budget-exceeded {
+            color: var(--danger-color);
+            font-weight: bold;
+        }
+
+        .clear-btn {
+            background: var(--danger-color);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: var(--transition);
+        }
+
+        .clear-btn:hover {
+            background: #e74c3c;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255, 107, 107, 0.4);
+        }
+
+        .categories {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .category {
+            background: var(--light-color);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+            animation: slideIn 0.5s ease-out;
+        }
+
+        .category:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+        }
+
+        .category-header {
+            padding: 15px 20px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            font-size: 18px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .category-header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: left 0.5s;
+        }
+
+        .category:hover .category-header::before {
+            left: 100%;
+        }
+
+        .category-frutas { background: #e8f5e8; color: #2d5a2d; }
+        .category-carnes { background: #fce8e8; color: #8b2635; }
+        .category-laticinios { background: #e8f4fd; color: #1e4a72; }
+        .category-padaria { background: #fff8e1; color: #b8860b; }
+        .category-bebidas { background: #f3e8ff; color: #6b2c91; }
+        .category-higiene { background: #e0f7fa; color: #00695c; }
+        .category-limpeza { background: #f0f4ff; color: #3d5afe; }
+        .category-congelados { background: #e8f5ff; color: #0d47a1; }
+        .category-doces { background: #ffeaa7; color: #d63031; }
+        .category-outros { background: #f5f5f5; color: #555; }
+
+        [data-theme="dark"] .category-frutas { background: #2d5a2d; color: #a8e6a8; }
+        [data-theme="dark"] .category-carnes { background: #8b2635; color: #ffb3ba; }
+        [data-theme="dark"] .category-laticinios { background: #1e4a72; color: #b3d9ff; }
+        [data-theme="dark"] .category-padaria { background: #b8860b; color: #fff4b3; }
+        [data-theme="dark"] .category-bebidas { background: #6b2c91; color: #e1b3ff; }
+        [data-theme="dark"] .category-higiene { background: #00695c; color: #b3fffa; }
+        [data-theme="dark"] .category-limpeza { background: #3d5afe; color: #e8f0ff; }
+        [data-theme="dark"] .category-congelados { background: #0d47a1; color: #b3d9ff; }
+        [data-theme="dark"] .category-doces { background: #d63031; color: #ffb3b3; }
+        [data-theme="dark"] .category-outros { background: #555555; color: #E0E0E0; }
+
+        .item {
+            padding: 15px 20px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: var(--transition);
+            position: relative;
+        }
+
+        .item:last-child {
+            border-bottom: none;
+        }
+
+        .item.completed {
+            background: rgba(40, 167, 69, 0.1);
+            opacity: 0.7;
+        }
+
+        .item.completed .item-name {
+            text-decoration: line-through;
+        }
+
+        .item:hover {
+            background: rgba(102, 126, 234, 0.05);
+            transform: translateX(5px);
+        }
+
+        .item-left {
+            display: flex;
+            align-items: center;
+            flex: 1;
+        }
+
+        .check-btn {
+            background: none;
+            border: none;
+            font-size: 24px;
+            margin-right: 15px;
+            cursor: pointer;
+            transition: var(--transition);
+            padding: 5px;
+            border-radius: 50%;
+        }
+
+        .check-btn:hover {
+            transform: scale(1.2) rotate(360deg);
+            background: rgba(102, 126, 234, 0.1);
+        }
+
+        .item-info {
+            flex: 1;
+        }
+
+        .item-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+
+        .item-details {
+            font-size: 14px;
+            color: #666;
+        }
+
+        [data-theme="dark"] .item-details {
+            color: #AAAAAA;
+        }
+
+        .item-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .edit-btn, .delete-btn {
+            background: none;
+            border: none;
+            padding: 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 16px;
+        }
+
+        .edit-btn {
+            color: var(--primary-color);
+        }
+
+        .edit-btn:hover {
+            background: var(--primary-color);
+            color: white;
+            transform: scale(1.1);
+        }
+
+        .delete-btn {
+            color: var(--danger-color);
+        }
+
+        .delete-btn:hover {
+            background: var(--danger-color);
+            color: white;
+            transform: scale(1.1);
+        }
+
+        .edit-form {
+            display: grid;
+            grid-template-columns: 2fr 80px 80px 60px 60px;
+            gap: 8px;
+            align-items: center;
+            width: 100%;
+            padding: 10px;
+            background: rgba(102, 126, 234, 0.05);
+            border-radius: 10px;
+        }
+
+        .edit-form input, .edit-form select {
+            padding: 8px;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            font-size: 14px;
+            background: var(--light-color);
+            color: var(--text-color);
+        }
+
+        .form-label {
+            font-size: 12px;
+            color: var(--primary-color);
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .save-btn, .cancel-btn {
+            padding: 8px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: var(--transition);
+        }
+
+        .save-btn {
+            background: var(--success-color);
+            color: white;
+        }
+
+        .save-btn:hover {
+            background: #218838;
+            transform: scale(1.05);
+        }
+
+        .cancel-btn {
+            background: #6c757d;
+            color: white;
+        }
+
+        .cancel-btn:hover {
+            background: #5a6268;
+            transform: scale(1.05);
+        }
+
+        .empty-state {
+            background: var(--light-color);
+            border-radius: var(--border-radius);
+            padding: 40px;
+            text-align: center;
+            box-shadow: var(--shadow);
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .empty-icon {
+            font-size: 64px;
+            margin-bottom: 20px;
+            animation: bounce 2s infinite;
+        }
+
+        .dark-mode-toggle {
+            bottom: 20px;
+            margin-top: 10px;
+            left: 50%;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 25px;
+            cursor: pointer; 
+            font-size: 10px;
+            font-weight: bold;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            
+        }
+
+        .dark-mode-toggle:hover {
+            box-shadow: 0 15px 30px rgba(102, 126, 234, 0.4);
+        }
+
+        @media (max-width: 768px) {
+            .add-form {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            
+            .budget-section {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .stats-left {
+                width: 100%;
+            }
+            
+            .progress-bar {
+                margin-right: 0;
+            }
+
+            .edit-form {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            
+            .item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+            
+            .item-left {
+                width: 100%;
+            }
+            
+            .item-actions {
+                align-self: flex-end;
+            }
+
+            .dark-mode-toggle {
+                bottom: 10px;
+                right: 10px;
+                transform: none;
+                padding: 10px 20px;
+            }
+
+            .dark-mode-toggle:hover {
+                transform: translateY(-3px);
+            }
+        }
+
+        .fade-in {
+            animation: fadeInUp 0.5s ease-out;
+        }
+
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+
+        .notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    z-index: 1000;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+}
+
+.notification.show {
+    transform: translateX(0);
+}
+
+.notification.success {
+    background: var(--success-color);
+}
+
+.notification.error {
+    background: var(--danger-color);
+}
+
+.notification.info {
+    background: var(--info-color);
+}
+
+.notification.warning {
+    background: var(--warning-color);
+} 
+
+.import-modal {
+    display: none; 
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.modal-content {
+    background: var(--light-color);
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    animation: zoomIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0.8);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+.modal-content h2 {
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+.modal-content p {
+    margin-bottom: 30px;
+    color: var(--text-color);
+}
+
+.modal-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-confirm {
+    background: var(--primary-color);
+    color: white;
+}
+
+.btn-confirm:hover {
+    background: var(--secondary-color);
+}
+
+.btn-cancel {
+    background: #ccc;
+    color: var(--text-color);
+}
+
+.btn-cancel:hover {
+    background: #aaa;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    color: var(--danger-color);
+}
+
+[data-theme="dark"] .modal-content {
+    background: var(--dark-color);#42445A
+    color: var(--light-color);
+}
+
+[data-theme="dark"] .btn-confirm {
+    background: var(--secondary-color);
+}
+
+[data-theme="dark"] .btn-cancel {
+    background: #555;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: -260px;
+    width: 250px;
+    height: 22%;
+    background-color: rgba(0, 0, 0, 0.88); 
+    transition: left 0.4s ease;
+    padding-top: 50px;
+    z-index: 100;
+    text-align: left;
+}
+
+.menu.open {
+    left: 0;
+}
+
+.menu a {
+  display: block;
+  padding: 15px;
+  font-size: 18px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); 
+}
+
+.menu a:hover {
+  background-color: #FF66B2;
+  color: black;
+}
+
+.menu-bar {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 101;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    padding: 10px;
+}
+
+.hamburger-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 25px;
+}
+
+.bar {
+    background-color: #ff66b2;
+    height: 4px;
+    width: 100%;
+    transition: all 0.3s ease;
+}
+
+.menu-bar.active .bar:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-bar.active .bar:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-bar.active .bar:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+
+<button class="menu-bar" onclick="toggleMenu(); toggleIcon();">
+  <div class="hamburger-icon">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+</button>
+
+<div id="menu" class="menu">
+  <a href="#" onclick="toggleDarkMode()">🌙 Mudar tema</a>
+  <a href="#" onclick="shareList()">📤 Compartilhar Lista</a>
+</div>
+        <div class="header">
+            <h1 class="title">🛒 Lista de Compras</h1>
+            
+            <div class="budget-section">
+                <span>💰 Orçamento:</span>
+                <input type="number" class="budget-input" id="budgetInput" placeholder="Digite seu orçamento..." step="0.01">
+                <div class="budget-display" id="budgetDisplay">R$ 0,00</div>
+            </div>
+            
+            <div class="add-form">
+                <input type="text" id="itemName" placeholder="Nome do produto..." />
+                <select id="itemCategory">
+                    <option value="frutas">🥬 Frutas & Verduras</option>
+                    <option value="carnes">🥩 Carnes & Peixes</option>
+                    <option value="laticinios">🧀 Laticínios</option>
+                    <option value="padaria">🍞 Padaria</option>
+                    <option value="bebidas">🥤 Bebidas</option>
+                    <option value="higiene">🧽 Higiene</option>
+                    <option value="limpeza">🧹 Limpeza</option>
+                    <option value="congelados">🧊 Congelados</option>
+                    <option value="doces">🍭 Doces & Snacks</option>
+                    <option value="outros">📦 Outros</option>
+                </select>
+                <div class="quantity-wrapper">
+                    <input type="text" id="itemQuantity" class="quantity-input" placeholder="Qtd" value="1" />
+                    <select id="itemUnit" class="unit-select">
+                        <option value="kg">Kilos</option>
+                        <option value="un">Unidades</option>
+                        <option value="lt">Litros</option>
+                        <option value="g">Gramas</option>
+                        <option value="ml">Mililitros</option>
+                        <option value="pct">Pacotes</option>
+                    </select>
+                </div>
+                <input type="number" id="itemPrice" placeholder="R$" step="0.01" />
+                <button class="add-btn" onclick="addItem()">+</button>
+            </div>
+            
+            <div class="stats">
+                <div class="stats-left">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                    <div>
+                        <span id="itemCount">0/0</span>
+                    </div>
+                </div>
+                <div class="price-display">
+                    <div id="budgetRemaining">Restante: R$ 0,00</div>
+                    <div><strong id="totalPrice">Total: R$ 0,00</strong></div>
+                    <div id="toPay">Valor de todos os itens: R$ 0,00</div>
+                </div>
+                <button class="clear-btn" onclick="clearCompleted()">Limpar ✅</button>
+            </div>
+        </div>
+            <div class="search-container">
+              <input type="text" class="search-input" id="searchInput" placeholder="🔍 Pesquisar itens na lista...">
+              <span class="search-icon">🔍</span>
+            </div>
+        <div id="categories" class="categories"></div>
+        
+        <div id="emptyState" class="empty-state" style="display: none;">
+            <div class="empty-icon">🛒</div>
+            <h2>Lista vazia</h2>
+            <p>Adicione alguns itens para começar!</p>
+        </div>
+    </div>
+
+    <div id="importModal" class="import-modal">
+  <div class="modal-content">
+    <span class="close-btn" onclick="closeModal()">&times;</span>
+    <h2>Importar Lista Recebida</h2>
+    <p>Você tem certeza de que deseja importar a lista recebida? Isso substituirá a sua lista atual.</p>
+    <div class="modal-actions">
+      <button class="btn btn-confirm" onclick="importList()">Confirmar</button>
+      <button class="btn btn-cancel" onclick="closeModal()">Cancelar</button>
+    </div>
+  </div>
+</div>
+    <script>
+        let items = [];
+        let editingId = null;
+        let budget = 0;
+        let searchTerm = '';
+
+        function loadData() {
+            try {
+                const savedItems = localStorage.getItem('shoppingList');
+                const savedBudget = localStorage.getItem('budget');
+                const savedTheme = localStorage.getItem('theme');
+                
+                if (savedItems) {
+                    items = JSON.parse(savedItems);
+                }
+                if (savedBudget) {
+                    budget = parseFloat(savedBudget);
+                    document.getElementById('budgetInput').value = budget;
+                }
+                if (savedTheme) {
+                    document.documentElement.setAttribute('data-theme', savedTheme);
+                    updateThemeToggle();
+                }
+            } catch (e) {
+                console.log('localStorage não disponível, usando memória');
+                items = [];
+                budget = 0;
+            }
+        }
+console.log("Itens carregados:", items);
+console.log("Orçamento carregado:", budget); 
+        const categories = {
+            frutas: { name: '🥬 Frutas & Verduras', class: 'category-frutas' },
+            carnes: { name: '🥩 Carnes & Peixes', class: 'category-carnes' },
+            laticinios: { name: '🧀 Laticínios', class: 'category-laticinios' },
+            padaria: { name: '🍞 Padaria', class: 'category-padaria' },
+            bebidas: { name: '🥤 Bebidas', class: 'category-bebidas' },
+            higiene: { name: '🧽 Higiene', class: 'category-higiene' },
+            limpeza: { name: '🧹 Limpeza', class: 'category-limpeza' },
+            congelados: { name: '🧊 Congelados', class: 'category-congelados' },
+            doces: { name: '🍭 Doces & Snacks', class: 'category-doces' },
+            outros: { name: '📦 Outros', class: 'category-outros' }
+        };
+
+        function saveData() {
+            try {
+                localStorage.setItem('shoppingList', JSON.stringify(items));
+                localStorage.setItem('budget', budget.toString());
+            } catch (e) {
+                console.log('localStorage não disponível');
+            }
+        }
+
+        function showNotification(message, type = 'success') {
+  const notification = document.createElement('div');
+  notification.className = `notification ${type}`;
+  notification.textContent = message;
+  document.body.appendChild(notification);
+
+  setTimeout(() => notification.classList.add('show'), 100);
+  setTimeout(() => {
+    notification.classList.remove('show');
+    setTimeout(() => document.body.removeChild(notification), 300);
+  }, 3000);
+}
+        function addItem() {
+            const name = document.getElementById('itemName').value.trim();
+            const category = document.getElementById('itemCategory').value;
+            const quantity = document.getElementById('itemQuantity').value || '1';
+            const unit = document.getElementById('itemUnit').value;
+            const price = document.getElementById('itemPrice').value || '';
+
+            if (!name) {
+                showNotification('Por favor, digite o nome do produto!', 'error');
+                return;
+            }
+
+            const item = {
+                id: Date.now(),
+                name,
+                category,
+                quantity,
+                unit,
+                price,
+                completed: false
+            };
+
+            items.push(item);
+            saveData();
+            renderItems();
+            showNotification(`${name} adicionado à lista! 🎉`);
+
+            document.getElementById('itemName').value = '';
+            document.getElementById('itemQuantity').value = '1';
+            document.getElementById('itemPrice').value = '';
+            document.getElementById('itemName').focus();
+        }
+
+        function toggleComplete(id) {
+            items = items.map(item => 
+                item.id === id ? { ...item, completed: !item.completed } : item
+            );
+            saveData();
+            renderItems();
+            
+            const item = items.find(i => i.id === id);
+            if (item.completed) {
+                showNotification(`${item.name} marcado como comprado! ✓`);
+            }
+        }
+
+        function deleteItem(id) {
+            if (confirm('Remover este item da lista?')) {
+                const itemName = items.find(i => i.id === id)?.name;
+                items = items.filter(item => item.id !== id);
+                saveData();
+                renderItems();
+                showNotification(`${itemName} removido da lista!`);
+            }
+        }
+
+        function startEdit(id) {
+            editingId = id;
+            renderItems();
+        }
+
+        function saveEdit(id) {
+            const nameInput = document.getElementById(`edit-name-${id}`);
+            const quantityInput = document.getElementById(`edit-quantity-${id}`);
+            const unitInput = document.getElementById(`edit-unit-${id}`);
+            const priceInput = document.getElementById(`edit-price-${id}`);
+
+            items = items.map(item => {
+                if (item.id === id) {
+                    return {
+                        ...item,
+                        name: nameInput.value.trim(),
+                        quantity: quantityInput.value || '1',
+                        unit: unitInput.value,
+                        price: priceInput.value || ''
+                    };
+                }
+                return item;
+            });
+
+            editingId = null;
+            saveData();
+            renderItems();
+            showNotification('Item atualizado! ✓');
+        }
+
+        function cancelEdit() {
+            editingId = null;
+            renderItems();
+        }
+        
+        function clearCompleted() {
+            const completedItems = items.filter(item => item.completed);
+            if (completedItems.length === 0) {
+                showNotification('Nenhum item marcado para remover!', 'error');
+                return;
+            }
+            
+            if (confirm(`Remover ${completedItems.length} item(ns) marcado(s) como comprado(s)?`)) {
+                items = items.filter(item => !item.completed);
+                saveData();
+                renderItems();
+                showNotification(`${completedItems.length} item(ns) removido(s)!`);
+            }
+        }
+
+        function setBudget() {
+            const budgetInput = document.getElementById('budgetInput');
+            budget = parseFloat(budgetInput.value) || 0;
+            saveData();
+            renderItems();
+            
+            if (budget > 0) {
+                showNotification(`Orçamento definido: R$ ${budget.toFixed(2)}!`);
+            }
+        }
+
+        function toggleDarkMode() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeToggle();
+            
+            showNotification(`Modo ${newTheme === 'dark' ? 'escuro' : 'claro'} ativado! 🎨`);
+        }
+
+        function updateThemeToggle() {
+            const toggle = document.getElementById('themeToggle');
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            toggle.innerHTML = isDark ? '☀️ Modo Claro' : '🌙 Modo Escuro';
+        }
+
+        function filterItems() {
+            if (!searchTerm) return items;
+            
+            return items.filter(item => 
+                item.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                categories[item.category].name.toLowerCase().includes(searchTerm.toLowerCase())
+            );
+        }
+
+        function renderItems() {
+  const categoriesContainer = document.getElementById('categories');
+  const emptyState = document.getElementById('emptyState');
+  const filteredItems = filterItems();
+
+  if (items.length === 0) {
+    categoriesContainer.innerHTML = '';
+    emptyState.style.display = 'block';
+    updateStats();
+    return;
+  }
+
+  emptyState.style.display = 'none';
+
+  if (filteredItems.length === 0 && searchTerm) {
+    categoriesContainer.innerHTML = `
+            <div class="empty-state">
+                <div class="empty-icon">🔍</div>
+                <h2>Nenhum item encontrado</h2>
+                <p>Tente pesquisar por outro termo.</p>
+            </div>
+        `;
+    updateStats();
+    return;
+  }
+
+  filteredItems.sort((a, b) => a.name.localeCompare(b.name));
+
+  const incompleteItems = filteredItems.filter(item => !item.completed);
+  const completedItems = filteredItems.filter(item => item.completed);
+
+  const sortedItems = [...incompleteItems, ...completedItems];
+
+  const grouped = {};
+  sortedItems.forEach(item => {
+    if (!grouped[item.category]) {
+      grouped[item.category] = [];
+    }
+    grouped[item.category].push(item);
+  });
+
+  let html = '';
+  Object.keys(grouped).forEach(categoryId => {
+    const category = categories[categoryId];
+    const categoryItems = grouped[categoryId];
+
+    html += `
+            <div class="category fade-in">
+                <div class="category-header ${category.class}">
+                    ${category.name} (${categoryItems.length})
+                </div>
+        `;
+
+    categoryItems.forEach(item => {
+      const isEditing = editingId === item.id;
+      const checkIcon = item.completed ? '✅' : '☑️';
+      const itemClass = item.completed ? 'completed' : '';
+
+      if (isEditing) {
+        html += `
+                    <div class="item">
+                        <div class="edit-form">
+                            <div>
+                                <div class="form-label">Nome</div>
+                                <input type="text" id="edit-name-${item.id}" value="${item.name}" />
+                            </div>
+                            <div>
+                                <div class="form-label">Quantidade</div>
+                                <input type="text" id="edit-quantity-${item.id}" value="${item.quantity}" />
+                            </div>
+                            <div>
+                                <div class="form-label">Unidades</div>
+                                <select id="edit-unit-${item.id}">
+                                    <option value="kg" ${item.unit === 'kg' ? 'selected' : ''}>Kilos</option>
+                                    <option value="un" ${item.unit === 'un' ? 'selected' : ''}>Unidades</option>
+                                    <option value="lt" ${item.unit === 'lt' ? 'selected' : ''}>Litros</option>
+                                    <option value="g" ${item.unit === 'g' ? 'selected' : ''}>Gramas</option>
+                                    <option value="ml" ${item.unit === 'ml' ? 'selected' : ''}>Mililitros</option>
+                                    <option value="pct" ${item.unit === 'pct' ? 'selected' : ''}>Pacotes</option>
+                                </select>
+                            </div>
+                            <div>
+                                <div class="form-label">Preço</div>
+                                <input type="number" id="edit-price-${item.id}" value="${item.price}" step="0.01" />
+                            </div>
+                            <div style="display: flex; gap: 5px;">
+                                <button class="save-btn" onclick="saveEdit(${item.id})">💾</button>
+                                <button class="cancel-btn" onclick="cancelEdit()">❌</button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+      } else {
+        const unitPrice = item.price ? parseFloat(item.price) : 0;
+        const quantity = parseFloat(item.quantity) || 1;
+        const total = unitPrice * quantity;
+
+        html += `
+                    <div class="item ${itemClass}">
+                        <div class="item-left">
+                            <button class="check-btn" onclick="toggleComplete(${item.id})">
+                                ${checkIcon}
+                            </button>
+                            <div class="item-info">
+                                <div class="item-name">${item.name}</div>
+                                <div class="item-details">
+                                    ${item.quantity} ${item.unit || 'un'}
+                                    ${unitPrice > 0 ? ` | R$ ${unitPrice.toFixed(2)}/${item.unit || 'un'}` : ''}
+                                    ${total > 0 ? ` | <strong>Total: R$ ${total.toFixed(2)}</strong>` : ''}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item-actions">
+                            <button class="edit-btn" onclick="startEdit(${item.id})" title="Editar">✏️</button>
+                            <button class="delete-btn" onclick="deleteItem(${item.id})" title="Excluir">🗑️</button>
+                        </div>
+                    </div>
+                `;
+      }
+    });
+
+    html += '</div>';
+  });
+
+  categoriesContainer.innerHTML = html;
+  updateStats();
+}
+
+        function updateStats() {
+            const totalItems = items.length;
+            const completedItems = items.filter(item => item.completed).length;
+            const incompleteItems = items.filter(item => !item.completed);
+            
+            const totalPrice = items.reduce((sum, item) => {
+                const price = parseFloat(item.price) || 0;
+                const quantity = parseFloat(item.quantity) || 1;
+                return sum + (price * quantity);
+            }, 0);
+
+            const toPay = incompleteItems.reduce((sum, item) => {
+                const price = parseFloat(item.price) || 0;
+                const quantity = parseFloat(item.quantity) || 1;
+                return sum + (price * quantity);
+            }, 0);
+
+            const progress = totalItems > 0 ? (completedItems / totalItems) * 100 : 0;
+            const remaining = budget - toPay;
+
+            document.getElementById('progressFill').style.width = `${progress}%`;
+            document.getElementById('totalPrice').textContent = `Valor total dos itens: R$ ${totalPrice.toFixed(2).replace('.', ',')}`;
+            document.getElementById('itemCount').textContent = `${completedItems}/${totalItems}`;
+            document.getElementById('toPay').textContent = `Valor de todos os itens: R$ ${toPay.toFixed(2).replace('.', ',')}`;
+            document.getElementById('budgetDisplay').textContent = `R$ ${budget.toFixed(2).replace('.', ',')}`;
+
+            const budgetElement = document.getElementById('budgetRemaining');
+            if (budget > 0) {
+                budgetElement.textContent = `Valor restante no orçamento: R$ ${Math.max(0, remaining).toFixed(2).replace('.', ',')}`;
+                budgetElement.className = remaining >= 0 ? 'budget-remaining' : 'budget-exceeded';
+                
+                if (remaining < 0) {
+                    budgetElement.textContent = `Excedeu: R$ ${Math.abs(remaining).toFixed(2).replace('.', ',')}`;
+                }
+            } else {
+                budgetElement.textContent = 'Defina um orçamento';
+                budgetElement.className = '';
+            }
+
+            if (budget > 0 && remaining < budget * 0.1 && remaining > 0) {
+                budgetElement.classList.add('pulse');
+            } else {
+                budgetElement.classList.remove('pulse');
+            }
+        }
+
+        document.getElementById('itemName').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                addItem();
+            }
+        });
+
+        document.getElementById('itemPrice').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                addItem();
+            }
+        });
+
+        document.getElementById('budgetInput').addEventListener('change', setBudget);
+        document.getElementById('budgetInput').addEventListener('blur', setBudget);
+
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            searchTerm = e.target.value;
+            renderItems();
+            
+            if (searchTerm && filterItems().length === 0) {
+                showNotification('Nenhum item encontrado para sua pesquisa!', 'error');
+            }
+        });
+
+        let budgetTimeout;
+        document.getElementById('budgetInput').addEventListener('input', function() {
+            clearTimeout(budgetTimeout);
+            budgetTimeout = setTimeout(setBudget, 500);
+        });
+
+        loadData();
+        renderItems();
+        updateThemeToggle();
+        checkImportFromQR();
+        
+        document.getElementById('itemName').focus();
+
+function shareList() {
+  if (items.length === 0) {
+    showNotification('Adicione alguns itens antes de compartilhar!', 'warning');
+    return;
+  }
+
+  const data = {
+    items: items,
+    budget: budget
+  };
+
+  const encodedData = encodeURIComponent(JSON.stringify(data));
+  const baseUrl = window.location.origin + window.location.pathname;
+  const urlToShare = `${baseUrl}?import=${encodedData}`;
+
+  console.log('URL gerada:', urlToShare); // Para debug
+
+  shortenLink(urlToShare)
+    .then(shortUrl => {
+      console.log('URL encurtada:', shortUrl); // Para debug
+
+      if (navigator.share) {
+        navigator.share({
+            title: 'Minha Lista de Compras',
+            text: 'Confira minha lista de compras!',
+            url: shortUrl
+          })
+          .then(() => {
+            showNotification('Lista compartilhada com sucesso!', 'success');
+          })
+          .catch((error) => {
+            // Fallback para cópia do link
+            copyToClipboard(shortUrl);
+          });
+      } else {
+        // Fallback para navegadores que não suportam Web Share API
+        copyToClipboard(shortUrl);
+      }
+    })
+    .catch(error => {
+      console.error('Erro ao encurtar link:', error);
+      // Se falhar o encurtamento, usa o link completo
+      if (navigator.share) {
+        navigator.share({
+          title: 'Minha Lista de Compras',
+          text: 'Confira minha lista de compras!',
+          url: urlToShare
+        });
+      } else {
+        copyToClipboard(urlToShare);
+      }
+    });
+}
+function copyToClipboard(text) {
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(text).then(() => {
+      showNotification('Link copiado para a área de transferência!', 'success');
+    }).catch(() => {
+      // Fallback manual
+      prompt("Copie este link para compartilhar:", text);
+    });
+  } else {
+    // Fallback manual para navegadores antigos
+    prompt("Copie este link para compartilhar:", text);
+  }
+}
+function checkImportFromQR() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.has('import')) {
+    try {
+      const importData = params.get('import');
+      console.log('Dados recebidos:', importData); // Para debug
+
+      const data = JSON.parse(decodeURIComponent(importData));
+      console.log('Dados decodificados:', data); // Para debug
+
+      if (data.items && Array.isArray(data.items)) {
+        // Mostra o modal de confirmação
+        openImportModal(data);
+      } else {
+        showNotification('Dados de importação inválidos!', 'error');
+      }
+    } catch (err) {
+      console.error('Erro ao importar:', err);
+      showNotification('Falha ao importar lista!', 'error');
+    }
+
+    // Remove os parâmetros da URL
+    window.history.replaceState({}, document.title, window.location.pathname);
+  }
+}
+let pendingImportData = null;
+
+function openImportModal(data) {
+    pendingImportData = data;
+    document.getElementById('importModal').style.display = 'flex';
+}
+
+function closeModal() {
+    document.getElementById('importModal').style.display = 'none';
+    pendingImportData = null;
+}
+
+function importList() {
+    if (pendingImportData) {
+        items = pendingImportData.items;
+        budget = pendingImportData.budget || 0;
+        
+        // Atualiza o campo de orçamento
+        document.getElementById('budgetInput').value = budget;
+        
+        saveData();
+        renderItems();
+        showNotification('Lista importada com sucesso! 🎉');
+    }
+    closeModal();
+}
+
+function openModal() {
+  document.getElementById('importModal').style.display = 'flex';
+}
+
+function closeModal() {
+  document.getElementById('importModal').style.display = 'none';
+}
+
+function importList() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.has('import')) {
+    try {
+      const data = JSON.parse(decodeURIComponent(params.get('import')));
+      if (data.items && Array.isArray(data.items)) {
+        items = data.items;
+        budget = data.budget || 0;
+        saveData();
+        renderItems();
+        showNotification('Lista importada com sucesso! 🎉');
+      }
+    } catch (err) {
+      console.error(err);
+      showNotification('Falha ao importar lista!', 'error');
+    }
+  }
+  closeModal();
+}
+
+function toggleMenu() {
+  var menu = document.getElementById('menu');
+  menu.classList.toggle('open');
+}
+
+function toggleIcon() {
+  var icon = document.querySelector('.menu-bar');
+  icon.classList.toggle('active');
+}
+
+function toggleDarkMode() {
+  const currentTheme = document.documentElement.getAttribute('data-theme');
+  const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+  document.documentElement.setAttribute('data-theme', newTheme);
+  localStorage.setItem('theme', newTheme);
+}
+    </script>
+</body>
+</html>
